@@ -32,3 +32,5 @@ Features (CRUD operations in BookRepository):
  Filter books with author starting with specified letter
  Identify books with at least 2 authors
  Update book by code
+
+THE MAIN MODULE should be run in order to start the application
